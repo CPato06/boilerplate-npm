@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Carlos Guillermo Patiño Lopez",
+	"author": "Carlos-Guillermo-Patiño-Lopez",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
